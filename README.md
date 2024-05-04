@@ -1,1 +1,3 @@
 # AVRES-WL
+Summary
+Precise evaluation of repigmentation in vitiligo patients is crucial for monitoring treatment efficacy and enhancing patient satisfaction. Computer-aided assessment of repigmentation rates in vitiligo patients: Implications for treatment efficacy - a retrospective study,  aimed to develop a computer-aided system for assessing repigmentation rates in vitiligo patients, providing valuable insights for clinical practice. A retrospective study was conducted at the Dermatology Department of Shenzhen People's Hospital between June 2019 and November 2022. Pre- and post-treatment images of vitiligo lesions under Wood's lamp were collected.
